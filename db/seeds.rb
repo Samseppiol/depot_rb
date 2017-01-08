@@ -1,9 +1,9 @@
 Product.delete_all
-Product.create(title: 'Test for the first item',
+Product.create(title: 'PC-F8',
   description:
     %{<p>
-      <em>Master Blaster</em>
-    Hello World
+      <em>8 Fuse Lock Module </em>
+
       </p>},
-  image_url: 'ccb.jpg',
-  price: 26.00)
+  image_url: 'PC-F8.jpg',
+  price: 72.00)
